@@ -4,7 +4,7 @@
   }
 
 body {
-  background-color: #3e49b1;
+  background-color: #ba2a83;
 }
 
 header {
@@ -15,7 +15,7 @@ header {
 }
 
 h1 {
-  color: white;
+  color: rgb(227, 224, 32);
   font-size: 56px;
   letter-spacing: 5px;
 }
